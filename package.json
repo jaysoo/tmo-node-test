@@ -1,0 +1,23 @@
+{
+  "name": "tmo-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysoo/tmo-node-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysoo/tmo-node-test/issues"
+  },
+  "homepage": "https://github.com/jaysoo/tmo-node-test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nps": "5.9.5"
+  }
+}
